@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2016 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * 
  */
 package com.ry.site.common.supcan;
 
@@ -31,7 +31,7 @@ import com.ry.site.common.web.BaseController;
 
 /**
  * 硕正Controller
- * @author ThinkGem
+ * @author rydge
  * @version 2013-11-13
  */
 @Controller

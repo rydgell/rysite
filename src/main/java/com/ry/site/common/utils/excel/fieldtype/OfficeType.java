@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2016 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * 
  */
 package com.ry.site.common.utils.excel.fieldtype;
 
@@ -9,7 +9,7 @@ import com.ry.site.modules.sys.utils.UserUtils;
 
 /**
  * 字段类型转换
- * @author ThinkGem
+ * @author rydge
  * @version 2013-03-10
  */
 public class OfficeType {

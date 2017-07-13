@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2016 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * 
  */
 package com.ry.site.modules.sys.web;
 
@@ -36,7 +36,7 @@ import com.ry.site.modules.sys.service.DictService;
 
 /**
  * 字典Controller
- * @author ThinkGem
+ * @author rydge
  * @version 2014-05-16
  */
 @Controller

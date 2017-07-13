@@ -1,5 +1,4 @@
 /**
- * Copyright &copy; 2012-2013 <a href="httparamMap://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
  */
 package com.ry.site.modules.sys.service;
 
@@ -14,7 +13,7 @@ import com.ry.site.modules.sys.entity.Log;
 
 /**
  * 日志Service
- * @author ThinkGem
+ * @author rydge
  * @version 2014-05-16
  */
 @Service

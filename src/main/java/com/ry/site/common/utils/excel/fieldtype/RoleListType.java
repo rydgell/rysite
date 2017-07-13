@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2016 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * 
  */
 package com.ry.site.common.utils.excel.fieldtype;
 
@@ -14,7 +14,7 @@ import com.ry.site.common.utils.SpringContextHolder;
 
 /**
  * 字段类型转换
- * @author ThinkGem
+ * @author rydge
  * @version 2013-5-29
  */
 public class RoleListType {

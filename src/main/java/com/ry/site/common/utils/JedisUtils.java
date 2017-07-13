@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2016 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * 
  */
 package com.ry.site.common.utils;
 
@@ -22,7 +22,7 @@ import redis.clients.jedis.exceptions.JedisException;
 /**
  * Jedis Cache 工具类
  * 
- * @author ThinkGem
+ * @author rydge
  * @version 2014-6-29
  */
 public class JedisUtils {

@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2016 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * 
  */
 package com.ry.site.modules.sys.utils;
 
@@ -32,7 +32,7 @@ import com.ry.site.modules.sys.security.SystemAuthorizingRealm.Principal;
 
 /**
  * 用户工具类
- * @author ThinkGem
+ * @author rydge
  * @version 2013-12-05
  */
 public class UserUtils {

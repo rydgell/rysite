@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2016 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * 
  */
 package com.ry.site.common.web;
 
@@ -18,7 +18,7 @@ import com.ckfinder.connector.ConnectorServlet;
 
 /**
  * CKFinderConnectorServlet
- * @author ThinkGem
+ * @author rydge
  * @version 2014-06-25
  */
 public class CKFinderConnectorServlet extends ConnectorServlet {

@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2016 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * 
  */
 package com.ry.site.common.utils;
 
@@ -9,7 +9,7 @@ import net.sf.ehcache.Element;
 
 /**
  * Cache工具类
- * @author ThinkGem
+ * @author rydge
  * @version 2013-5-29
  */
 public class EhCacheUtils {

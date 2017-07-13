@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2016 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * 
  */
 package com.ry.site.modules.sys.web;
 
@@ -44,7 +44,7 @@ import com.ry.site.modules.sys.utils.UserUtils;
 
 /**
  * 用户Controller
- * @author ThinkGem
+ * @author rydge
  * @version 2013-8-29
  */
 @Controller

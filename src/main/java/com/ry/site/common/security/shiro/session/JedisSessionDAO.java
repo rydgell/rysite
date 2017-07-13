@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2016 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * 
  */
 package com.ry.site.common.security.shiro.session;
 
@@ -31,7 +31,7 @@ import com.ry.site.common.web.Servlets;
 
 /**
  * 自定义授权会话管理类
- * @author ThinkGem
+ * @author rydge
  * @version 2014-7-20
  */
 public class JedisSessionDAO extends AbstractSessionDAO implements SessionDAO {

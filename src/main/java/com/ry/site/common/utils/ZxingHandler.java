@@ -23,7 +23,7 @@ import com.google.zxing.qrcode.decoder.ErrorCorrectionLevel;
 /**
  * 条形码和二维码编码解码
  * 
- * @author ThinkGem
+ * @author rydge
  * @version 2014-02-28
  */
 public class ZxingHandler {
@@ -154,8 +154,8 @@ public class ZxingHandler {
 		// 二维码
 		String imgPath2 = "target\\zxing.png";
 		String contents2 = "Hello Gem, welcome to Zxing!"
-				+ "\nBlog [ http://thinkgem.iteye.com ]"
-				+ "\nEMail [ thinkgem@163.com ]";
+				+ "\nBlog [ http://xxx.iteye.com ]"
+				+ "\nEMail [ xxx@163.com ]";
 		int width2 = 300, height2 = 300;
 
 		ZxingHandler.encode2(contents2, width2, height2, imgPath2);

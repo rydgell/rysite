@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2016 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * 
  */
 package com.ry.site.common.web;
 
@@ -32,7 +32,7 @@ import com.ry.site.common.utils.DateUtils;
 
 /**
  * 控制器支持类
- * @author ThinkGem
+ * @author rydge
  * @version 2013-3-23
  */
 public abstract class BaseController {

@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2016 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * 
  */
 package com.ry.site.common.utils;
 
@@ -28,7 +28,7 @@ import com.google.common.collect.Lists;
 /**
  * 文件操作工具类
  * 实现文件的创建、删除、复制、压缩、解压以及目录的创建、删除、复制、压缩解压等功能
- * @author ThinkGem
+ * @author rydge
  * @version 2015-3-16
  */
 public class FileUtils extends org.apache.commons.io.FileUtils {

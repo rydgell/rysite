@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2016 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * 
  */
 package com.ry.site.common.service;
 
@@ -17,7 +17,7 @@ import com.ry.site.modules.sys.entity.User;
 
 /**
  * Service基类
- * @author ThinkGem
+ * @author rydge
  * @version 2014-05-16
  */
 @Transactional(readOnly = true)

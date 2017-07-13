@@ -1,5 +1,4 @@
 /**
- * Copyright &copy; 2012-2016 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
  */
 package com.ry.site.common.config;
 
@@ -16,7 +15,7 @@ import com.ry.site.common.utils.StringUtils;
 
 /**
  * 全局配置类
- * @author ThinkGem
+ * @author rydge
  * @version 2014-06-25
  */
 public class Global {

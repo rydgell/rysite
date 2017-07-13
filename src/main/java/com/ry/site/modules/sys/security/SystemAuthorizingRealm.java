@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2016 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * 
  */
 package com.ry.site.modules.sys.security;
 
@@ -41,7 +41,7 @@ import com.ry.site.modules.sys.web.LoginController;
 
 /**
  * 系统安全认证实现类
- * @author ThinkGem
+ * @author rydge
  * @version 2014-7-5
  */
 @Service

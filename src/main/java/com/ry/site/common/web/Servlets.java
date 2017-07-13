@@ -30,7 +30,7 @@ import com.ry.site.modules.sys.utils.UserUtils;
 
 /**
  * Http与Servlet工具类.
- * @author calvin/thinkgem
+ * @author calvin/xxx
  * @version 2014-8-19
  */
 public class Servlets {

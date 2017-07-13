@@ -1,5 +1,5 @@
 /**
- * Copyright &copy; 2012-2016 <a href="https://github.com/thinkgem/jeesite">JeeSite</a> All rights reserved.
+ * 
  */
 package com.ry.site.modules.sys.web;
 
@@ -14,7 +14,7 @@ import com.ry.site.common.web.BaseController;
 
 /**
  * 标签Controller
- * @author ThinkGem
+ * @author rydge
  * @version 2013-3-23
  */
 @Controller
